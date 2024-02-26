@@ -1,0 +1,1157 @@
+[
+[
+    {
+        "brand": null,
+        "deal_price": null,
+        "description": "This Noodles is positioned in the market as a brand with superior taste and quality that gives you value for your money.\nIt is produced from high quality flour. Fast and easy to prepare with a great taste. Excellent packaging quality/aesthetics. Honeywell heritage. Produced to International quality standards (ISO Certified). KEY BRAND BENEFITS: Great Taste Nutritious Satisfying",
+        "final_price": null,
+        "image_thumbnail": "/P/E/_1669382100.png",
+        "image_thumbnail_path": "/P/E/_1669382100.png",
+        "image_full": null,
+        "images": null,
+        "name": "Noodles Goatmeat 70g - 1 Carton",
+        "objectID": "5529250",
+        "original_price": null,
+        "product_id": "5529250",
+        "product_type": "simple",
+        "price": 5200,
+        "status": null,
+        "special_price": 4680,
+        "sku": 5529250,
+        "url_key": "noodles-goatmeat-70g-1-carton-5529250",
+        "weight": null,
+        "categories": [
+            {
+                "id": 581,
+                "name": "Drinks & Groceries",
+                "url_key": "drinks-groceries",
+                "position": 17
+            },
+            {
+                "id": 6139,
+                "name": "Food",
+                "url_key": "food",
+                "position": 1
+            },
+            {
+                "id": 584,
+                "name": "Rice, Pasta & Noodles",
+                "url_key": "rice-pasta-noodles",
+                "position": 3
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+
+        "stock": {
+            "in_stock": true,
+            "quantity": 31,
+            "quantity_sold": 884,
+            "min_sale_qty": 10,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 1,
+                "five_star": 0,
+                "average": 4,
+                "percentage": 80,
+                "number_of_ratings": 1
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 1
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 1
+        },
+        "express_delivery": true,
+        "special_from_date": "1637193600",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Port Harcourt"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    },
+    {
+        "brand": null,
+        "deal_price": null,
+        "description": "Cholesterol Free\nTrans-Fat Free\nSource Of Vitamin B6 & B12\nSource Of Vitamin A, D & E\nFolic Acid & Niacin",
+        "final_price": null,
+        "image_thumbnail": "/W/Q/118566_1700055938.jpg",
+        "image_thumbnail_path": "/W/Q/118566_1700055938.jpg",
+        "image_full": null,
+        "images": null,
+        "name": "Devon Kings Lowfatspread 450g Per Unit",
+        "objectID": "6320138",
+        "original_price": null,
+        "product_id": "6320138",
+        "product_type": "simple",
+        "price": 750,
+        "status": null,
+        "special_price": 645,
+        "sku": 6320138,
+        "url_key": "devon-kings-lowfatspread-450g-per-unit-6320138",
+        "weight": null,
+        "categories": [
+            {
+                "id": 581,
+                "name": "Drinks & Groceries",
+                "url_key": "drinks-groceries",
+                "position": 17
+            },
+            {
+                "id": 6139,
+                "name": "Food",
+                "url_key": "food",
+                "position": 1
+            },
+            {
+                "id": 583,
+                "name": "Breakfast & Cereals",
+                "url_key": "breakfast-cereals",
+                "position": 1
+            },
+            {
+                "id": 6068,
+                "name": "Honey,Syrups & Spread",
+                "url_key": "honey-syrups-spread",
+                "position": 1
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+        "stock": {
+            "in_stock": true,
+            "quantity": 335,
+            "quantity_sold": 58,
+            "min_sale_qty": 1,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 0
+        },
+        "express_delivery": true,
+        "special_from_date": "1700006400",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Abuja"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    },
+    {
+        "brand": null,
+        "deal_price": null,
+        "description": "No harsh salty taste - has perfect and mild blend with foods and on the tongue\nRecommended for healthy cooking\nHighly recommended for seasoning\n1kg\nIdeal for every home",
+        "final_price": null,
+        "image_thumbnail": "/V/Q/118566_1618414310.jpg",
+        "image_thumbnail_path": "/V/Q/118566_1618414310.jpg",
+        "image_full": null,
+        "images": null,
+        "name": "Dangote Salt 1kg",
+        "objectID": "5206186",
+        "original_price": null,
+        "product_id": "5206186",
+        "product_type": "simple",
+        "price": 700,
+        "status": null,
+        "special_price": 550,
+        "sku": 5206186,
+        "url_key": "dangote-salt-1kg-5206186",
+        "weight": null,
+        "categories": [
+            {
+                "id": 581,
+                "name": "Drinks & Groceries",
+                "url_key": "drinks-groceries",
+                "position": 17
+            },
+            {
+                "id": 6139,
+                "name": "Food",
+                "url_key": "food",
+                "position": 1
+            },
+            {
+                "id": 586,
+                "name": "Cooking Ingredients",
+                "url_key": "cooking-baking-ingredients",
+                "position": 4
+            },
+            {
+                "id": 2289,
+                "name": "Condiments",
+                "url_key": "condiments",
+                "position": 0
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+        "stock": {
+            "in_stock": true,
+            "quantity": 7,
+            "quantity_sold": 28,
+            "min_sale_qty": 1,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 0
+        },
+        "express_delivery": true,
+        "special_from_date": "1618358400",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Lagos"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    },
+    {
+        "brand": "Tecno",
+        "deal_price": null,
+        "description": "Reduces noise technology\nProtects your ears with enhanced bass control\nMinimize sound loss and maximize sound output\nHigh-quality audio",
+        "final_price": null,
+        "image_thumbnail": "/L/O/118566_1599488455.jpg",
+        "image_thumbnail_path": "/L/O/118566_1599488455.jpg",
+        "image_full": null,
+        "images": null,
+        "name": "Tecno Wired Earpiece",
+        "objectID": "4913775",
+        "original_price": null,
+        "product_id": "4913775",
+        "product_type": "simple",
+        "price": 1900,
+        "status": null,
+        "special_price": 510,
+        "sku": 4913775,
+        "url_key": "tecno-tecno-wired-earpiece-4913775",
+        "weight": null,
+        "categories": [
+            {
+                "id": 5294,
+                "name": "Phones and Tablets",
+                "url_key": "phones-tablets",
+                "position": 0
+            },
+            {
+                "id": 5327,
+                "name": "Phone & Tablet Bundles",
+                "url_key": "phone-tablet-bundles",
+                "position": 6
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+        "stock": {
+            "in_stock": true,
+            "quantity": 285,
+            "quantity_sold": 300,
+            "min_sale_qty": 1,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+              "four_star": 4,
+                "five_star": 3,
+                "average": 4.4,
+                "percentage": 88,
+                "number_of_ratings": 7
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 7
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 7
+        },
+        "express_delivery": true,
+        "special_from_date": "1599436800",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Lagos"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    },
+    {
+        "brand": null,
+        "deal_price": null,
+        "description": "Honeywell Semolina is superfine in nature and creamier in color than semolina brands. this gives it a very good look and feel. Honeywell Semolina’s quality allows it to turn into a jelly paste quickly during preparation. This makes it very easy for busy housewives and other domestic servants to prepare without stress.",
+        "final_price": null,
+        "image_thumbnail": "/X/R/118566_1629471268.jpg",
+        "image_thumbnail_path": "/X/R/118566_1629471268.jpg",
+        "image_full": null,
+        "images": null,
+        "name": "Honeywell Semolina - 9.5kg",
+        "objectID": "5391288",
+        "original_price": null,
+        "product_id": "5391288",
+        "product_type": "simple",
+        "price": 12900,
+        "status": null,
+        "special_price": 11575,
+        "sku": 5391288,
+        "url_key": "honeywell-semolina-9-5kg-5391288",
+        "weight": null,
+        "categories": [
+            {
+                "id": 581,
+                "name": "Drinks & Groceries",
+                "url_key": "drinks-groceries",
+                "position": 17
+            },
+            {
+                "id": 6139,
+                "name": "Food",
+                "url_key": "food",
+                "position": 1
+            },
+            {
+                "id": 585,
+                "name": "Flour & Grains",
+                "url_key": "flour-grains",
+                "position": 7
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+        "stock": {
+            "in_stock": true,
+            "quantity": 1940,
+            "quantity_sold": 46,
+            "min_sale_qty": 1,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 0
+        },
+        "express_delivery": true,
+        "special_from_date": "1629417600",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Abuja"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    },
+    {
+        "brand": null,
+        "deal_price": null,
+        "description": "Golden Penny Semovita, is a superior quality brand of Semolina made from the finest quality wheat. Fortified with proteins and vitamins, GPS has a natural wheat color because of the high brand and fibre content retained during extraction.",
+        "final_price": null,
+        "image_thumbnail": "/O/T/_1694767727.png",
+        "image_thumbnail_path": "/O/T/_1694767727.png",
+        "image_full": null,
+        "images": null,
+        "name": "Golden Penny Semovita 5kg",
+        "objectID": "5529188",
+        "original_price": null,
+        "product_id": "5529188",
+        "product_type": "simple",
+        "price": 5500,
+        "status": null,
+        "special_price": 4860,
+        "sku": 5529188,
+        "url_key": "golden-penny-semovita-5kg-5529188",
+        "weight": null,
+        "categories": [
+            {
+                "id": 581,
+                "name": "Drinks & Groceries",
+                "url_key": "drinks-groceries",
+                "position": 17
+            },
+            {
+                "id": 6139,
+                "name": "Food",
+                "url_key": "food",
+                "position": 1
+            },
+            {
+                "id": 585,
+                "name": "Flour & Grains",
+                "url_key": "flour-grains",
+                "position": 7
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+        "stock": {
+            "in_stock": true,
+            "quantity": 84,
+            "quantity_sold": 43,
+            "min_sale_qty": 1,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 1,
+                "average": 5,
+                "percentage": 100,
+                "number_of_ratings": 1
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 1
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 1
+        },
+        "express_delivery": true,
+        "special_from_date": "1637193600",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Abuja"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    },
+    {
+        "brand": "Mamador",
+        "deal_price": null,
+        "description": "Mamador vegetable oil is traditionally preferred for deep frying, as it preserves the natural aroma of food in it. A revolution in the world of cooking oils, Mamador vegetable oil is naturally enriched with multiple nutrients that translate into health benefits for every member in the family. ‘Mamador Vegetable Oil’ is indeed a wise choice for every health-conscious family. Switch to healthy living today! Nafdac No B1 -7532",
+        "final_price": null,
+        "image_thumbnail": "/G/E/_1525248358.jpg",
+        "image_thumbnail_path": "/G/E/_1525248358.jpg",
+        "image_full": null,
+        "images": null,
+        "name": "Vegetable Oil - 3.5l per unit",
+        "objectID": "5923563",
+        "original_price": null,
+        "product_id": "5923563",
+        "product_type": "simple",
+        "price": 8900,
+        "status": null,
+        "special_price": 8000,
+        "sku": 5923563,
+        "url_key": "mamador-vegetable-oil-3-5l-per-unit-5923563",
+        "weight": null,
+        "categories": [
+            {
+                "id": 581,
+                "name": "Drinks & Groceries",
+                "url_key": "drinks-groceries",
+                "position": 17
+            },
+            {
+                "id": 6139,
+                "name": "Food",
+                "url_key": "food",
+                "position": 1
+            },
+            {
+                "id": 586,
+                "name": "Cooking Ingredients",
+                "url_key": "cooking-baking-ingredients",
+                "position": 4
+            },
+            {
+                "id": 2290,
+                "name": "Cooking Oils",
+                "url_key": "cooking-oils",
+                "position": 1
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+        "stock": {
+            "in_stock": true,
+            "quantity": 305,
+            "quantity_sold": 26,
+            "min_sale_qty": 1,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 0
+        },
+        "express_delivery": true,
+        "special_from_date": "1667260800",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Abuja"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    },
+    {
+        "brand": "Infinix",
+        "deal_price": null,
+        "description": "NETWORK Technology: GSM / HSPA / LTE 2G bands: GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 3G bands: HSDPA 900 / 2100 4G bands: LTE Speed: HSPA, LTE\nBODY Dimensions: 163.7 x 75.6 x 8.6 mm (6.44 x 2.98 x 0.34 in) Build: Glass front, plastic back, plastic frame SIM: Dual SIM (Nano-SIM, dual stand-by)\nDISPLAY Type: IPS LCD, 90Hz Size: 6.6 inches, 104.6 cm2 (~84.6% screen-to-body ratio) Resolution: 720 x 1612 pixels, 20:9 ratio (~267 ppi density)\nPLATFORM OS: Android 13 (Android T-Go) Chipset: Unisoc T606 (12 nm) CPU: Octa-core (2x1.6 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55) GPU: Mali-G57 MP1\nMEMORY Card slot: microSDXC Internal: 128GB ROM - 4GB RAM (4GB+4GB Extended)\nCamera Rear: 13MP + AI-CAM, Rear Dual Flash, HDR Video: 1080p@30fps Front: 8MP, Front Dual Flash Video: Yes\nSOUND Loudspeaker: Yes, with dual speakers 3.5mm jack: Yes\nCOMMS WLAN: Yes Bluetooth: Yes Positioning: GPS Radio: FM radio USB: USB Type-C, OTG\nSensors Software Gyroscope Side Fingerprint\nBATTERY Type: Li-Po 5000mAh, non-removable Charging: 10W Charge Type-C\nWhat's inside the box: Device, Charger, SIM Tool Ejector, Earpiece,\n\nWhats in the box\n\nMobile phone\nCharger Cable\nCharger (Head and cord)\nEarpiece\nWarranty Card\nSim Ejector Tool\nFree case",
+        "final_price": null,
+        "image_thumbnail": "/D/I/118566_1706280067.jpg",
+        "image_thumbnail_path": "/D/I/118566_1706280067.jpg",
+        "image_full": null,
+        "images": null,
+        "name": "Smart 8 D1-x6525 - 6.6\"-64gb Rom-4gb Ram - 4g Lte - 13mp+8mp- Dual Sim - Fingerprint - 5000mah- Green",
+        "objectID": "6368853",
+        "original_price": null,
+        "product_id": "6368853",
+        "product_type": "simple",
+        "price": 109900,
+        "status": null,
+        "special_price": 98900,
+        "sku": 6368853,
+        "url_key": "infinix-smart-8-d1-x6525-6-6-64gb-rom-4gb-ram-4g-lte-13mp-8mp-dual-sim-fingerprint-5000mah-green-6368853",
+        "weight": null,
+        "categories": [
+            {
+                "id": 5294,
+                "name": "Phones and Tablets",
+                "url_key": "phones-tablets",
+                "position": 0
+            },
+            {
+                "id": 5297,
+                "name": "Mobile Phones",
+                "url_key": "mobile-phones",
+                "position": 1
+            },
+            {
+                "id": 7539,
+                "name": "Smartphones",
+                "url_key": "smartphones",
+                "position": 1
+            },
+            {
+                "id": 7540,
+                "name": "Android Phones",
+                "url_key": "android-phones",
+                "position": 1
+            }
+        ],
+        "variants": {
+            "attributes": []
+        },
+        "visibility": 4,
+        "new_from_date": "",
+        "new_to_date": "",
+        "konga_fulfilment_type": "CWK",
+        "is_free_shipping": false,
+        "is_pay_on_delivery": null,
+        "seller": {
+            "id": 118566,
+            "name": "Konga",
+            "url": null,
+            "is_premium": false,
+            "is_konga": true
+        },
+        "stock": {
+            "in_stock": true,
+            "quantity": 4,
+            "quantity_sold": 10,
+            "min_sale_qty": 1,
+            "max_sale_qty": 0
+        },
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "communication": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "delivery_percentage": 0,
+            "delivered_orders": 0,
+            "total_ratings": 0
+        },
+        "express_delivery": true,
+        "special_from_date": "1706227200",
+        "special_to_date": "",
+        "max_return_period": null,
+        "delivery_days": 14,
+        "warehouse_location_regions": {
+            "availability_locations": [
+                "Lagos"
+            ]
+        },
+        "pay_on_delivery": null,
+        "is_official_store_product": 0
+    }
+],
+[
+    {
+        "sku": 6131379,
+        "name": "Infinix Hot 30i - 6.6\" - 128GB ROM-8GB To 16GB RAM -NFC-4G Dual SIM -Fingerprint - 5000mAh- Black",
+        "brand": "Infinix",
+        "image_thumbnail": "/S/P/204636_1684937139.jpg",
+        "url_key": "infinix-infinix-hot-30i-6-6-128gb-rom-8gb-to-16gb-ram-nfc-4g-dual-sim-fingerprint-5000mah-black-6131379",
+        "price": 100000,
+        "special_price": null,
+        "final_price": null,
+        "original_price": 100000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 1
+        }
+    },
+    {
+        "sku": 4122426,
+        "name": "Inverter Welding Machine 250a",
+        "brand": null,
+        "image_thumbnail": "/T/K/126972_1596281460.jpg",
+        "url_key": "inverter-welding-machine-250a-4122426",
+        "price": 80000,
+        "special_price": null,
+        "final_price": null,
+        "original_price": 80000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 4
+        }
+    },
+    {
+        "sku": 5572354,
+        "name": "Razer Gold Gift Card 100$ USD Global",
+        "brand": "Razer",
+        "image_thumbnail": "/Z/L/56261_1640696398.jpg",
+        "url_key": "razer-razer-gold-gift-card-100-usd-global-5572354",
+        "price": 210000,
+        "special_price": null,
+        "final_price": null,
+        "original_price": 210000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 11
+        }
+    },
+    {
+        "sku": 5910592,
+        "name": "Longjack Xxxl Men-power Booster - 30 Capsules",
+        "brand": null,
+        "image_thumbnail": "/U/Z/79725_1666170301.jpg",
+        "url_key": "longjack-xxxl-men-power-booster-30-capsules-5910592",
+        "price": 5900,
+        "special_price": 5900,
+        "final_price": null,
+        "original_price": 25000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 4,
+                "average": 5,
+                "percentage": 100,
+                "number_of_ratings": 4
+            },
+            "total_ratings": 4
+        },
+        "stock": {
+            "quantity_sold": 1796
+        }
+    },
+    {
+        "sku": 6362009,
+        "name": "PRE ORDER -SAMSUNG GALAXY S24 ULTRA 1TB + Free Gift (Pre Order Value 300k, Full payment #2,159,000)",
+        "brand": "Samsung",
+        "image_thumbnail": "/I/Q/_1705497295.png",
+        "url_key": "samsung-pre-order-samsung-galaxy-s24-ultra-1tb-free-gift-pre-order-value-300k-full-payment-2-159-000-6362009",
+        "price": 300000,
+        "special_price": null,
+        "final_price": null,
+        "original_price": 300000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 4
+        }
+    },
+    {
+        "sku": 5970393,
+        "name": "Dynewell Plus Syrup For Buttocks Enlargement And Weight-gain - 500ml",
+        "brand": null,
+        "image_thumbnail": "/X/V/211126_1672094779.jpg",
+        "url_key": "dynewell-plus-syrup-for-buttocks-enlargement-and-weight-gain-500ml-5970393",
+        "price": 2999,
+        "special_price": 2999,
+        "final_price": null,
+        "original_price": 6000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 32
+        }
+    },
+    {
+        "sku": 2575999,
+        "name": "Non-Stick Cookware Set - 10 Pcs",
+        "brand": null,
+        "image_thumbnail": "/N/o/Non-Stick-Cookware-Set---10-Pcs-5798021_1.jpg",
+        "url_key": "non-stick-cookware-set-10-pcs-2575999",
+        "price": 45800,
+        "special_price": 45800,
+        "final_price": null,
+        "original_price": 49500,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 2,
+                "four_star": 1,
+                "five_star": 6,
+                "average": 4.4,
+                "percentage": 88,
+                "number_of_ratings": 9
+            },
+            "total_ratings": 9
+        },
+        "stock": {
+            "quantity_sold": 122
+        }
+    },
+    {
+        "sku": 4101635,
+        "name": "12.5kg Gas Cylinder With Metered Regulator And Hose",
+        "brand": "Cepsa",
+        "image_thumbnail": "/G/K/75657_1540817948.jpg",
+        "url_key": "cepsa-12-5kg-gas-cylinder-with-metered-regulator-and-hose-4101635",
+        "price": 57000,
+        "special_price": null,
+        "final_price": null,
+        "original_price": 57000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 8
+        }
+    },
+    {
+        "sku": 3701111,
+        "name": "iTunes 200 USD Apple Store Credit",
+        "brand": null,
+        "image_thumbnail": "/i/T/iTunes-200-USD-Apple-Store-Credit-7786206.jpg",
+        "url_key": "itunes-200-usd-apple-store-credit-3701111",
+        "price": 360000,
+        "special_price": null,
+        "final_price": null,
+        "original_price": 360000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 18
+        }
+    },
+    {
+        "sku": 5006946,
+        "name": "Big Bull Rice - 50kg",
+        "brand": "Big Bull",
+        "image_thumbnail": "/U/Q/_1706490020.jpg",
+        "url_key": "big-bull-big-bull-rice-50kg-5006946",
+        "price": 66130,
+        "special_price": 66130,
+        "final_price": null,
+        "original_price": 73500,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 2,
+                "five_star": 5,
+                "average": 4.7,
+                "percentage": 94,
+                "number_of_ratings": 7
+            },
+            "total_ratings": 7
+        },
+        "stock": {
+            "quantity_sold": 34191
+        }
+    },
+    {
+        "sku": 3136683,
+        "name": "iTunes Gift Card US- $100",
+        "brand": "Apple",
+        "image_thumbnail": "/i/T/iTunes-Gift-Card-US--100-8020790_1.jpg",
+        "url_key": "apple-itunes-gift-card-us-100-3136683",
+        "price": 180000,
+        "special_price": null,
+        "final_price": null,
+        "original_price": 180000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 1,
+                "five_star": 2,
+                "average": 4.7,
+                "percentage": 94,
+                "number_of_ratings": 3
+            },
+            "total_ratings": 3
+        },
+        "stock": {
+            "quantity_sold": 53
+        }
+    },
+    {
+        "sku": 6051328,
+        "name": "Galaxy S10 Plus - 6.4\" - 128GB ROM - 8GB RAM - 4200mAh - Single Sim - Blue",
+        "brand": "Samsung",
+        "image_thumbnail": "/J/Z/202044_1679170254.jpg",
+        "url_key": "samsung-galaxy-s10-plus-6-4-128gb-rom-8gb-ram-4200mah-single-sim-blue-6051328",
+        "price": 175000,
+        "special_price": 175000,
+        "final_price": null,
+        "original_price": 200000,
+        "product_rating": {
+            "quality": {
+                "one_star": 0,
+                "two_star": 0,
+                "three_star": 0,
+                "four_star": 0,
+                "five_star": 0,
+                "average": 0,
+                "percentage": 0,
+                "number_of_ratings": 0
+            },
+            "total_ratings": 0
+        },
+        "stock": {
+            "quantity_sold": 2
+        }
+    }
+]
+]

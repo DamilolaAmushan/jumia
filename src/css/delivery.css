@@ -1,0 +1,21 @@
+.last{
+    margin-top:10% ;
+    background-color: white;
+}
+.new{
+    white-space: nowrap; /* Prevent text from wrapping */
+    overflow: hidden; /* Hide any overflowing text */
+    text-overflow: ellipsis; /* Display an ellipsis (...) to indicate text overflow */
+}
+.inume{
+    width: 105%;
+    background-color: #F68B1E;
+    margin: 0;
+    border-style: none;
+
+}
+p a {
+    color: black; /* Change the color to black */
+    text-decoration: none; /* Remove the underline */
+    
+}

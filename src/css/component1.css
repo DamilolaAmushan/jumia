@@ -1,0 +1,47 @@
+.carouselcontainer {
+  width: 100vw;
+  overflow: hidden;
+}
+.bgwhite{
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  padding-left: 5%;
+  padding-top: 2%;
+  /* border-radius: 3%; */
+}
+.width{
+  width: 90%;
+}
+
+.carousel {
+  display: flex;
+  transition: transform 0.5s ease;
+  width: 15%;
+}
+.itemname {
+  white-space: nowrap; /* Prevent text from wrapping */
+  overflow: hidden; /* Hide any overflowing text */
+  text-overflow: ellipsis; /* Display an ellipsis (...) to indicate text overflow */
+}
+.padding{
+  padding-left: 8%;
+}
+
+
+
+.itemname {
+  white-space: nowrap; /* Prevent text from wrapping */
+  overflow: hidden; /* Hide any overflowing text */
+  text-overflow: ellipsis; /* Display an ellipsis (...) to indicate text overflow */
+  
+}
+
+.carouselimg {
+  width: 100%;
+  /* height: auto; To maintain aspect ratio */
+}
+.carouselitem{
+  width: 98%;
+  height: 100%
+}
