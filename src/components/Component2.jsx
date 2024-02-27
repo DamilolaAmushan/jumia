@@ -1,10 +1,10 @@
 import React,{useState} from 'react'
 import '../css/component1.css'
-import toluData from '../data/tolu'
+import itemsData from '../data/items'
 
 const Component2 = () => {
-    const [tolus, setTolus] = useState(toluData);
-    const newtolu = tolus[4];
+    const [items, setitems] = useState(itemsData);
+    const newitems = items[4];
   return (
     <div className=' container rounded'>
         <h4 className='rounded bgwhite mt-1 mb-0 pl-3' style={{width:1129, alignItem:'center'}}>Recently viewed</h4>
@@ -14,44 +14,44 @@ const Component2 = () => {
             
                 <div className="carouselitem bg-white">
                 
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
                   
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white rounded">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     

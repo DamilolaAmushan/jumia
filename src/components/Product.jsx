@@ -5,37 +5,37 @@ import { MdAddShoppingCart } from "react-icons/md";
 import Delivery from './Delivery'
 import '../css/Product.css'
 import Details from './Details'
-import toluData from '../data/tolu';
+import itemsData from '../data/items';
 import Component1 from './component1';
 import Component2 from './Component2';
 
 const Product = () => {
-  const [tolus, setTolus] = useState(toluData);
+  const [items, setItems] = useState(itemsData);
 
-  const newtolu = tolus[2] ;
+  const newitems = items[2] ;
    
   return (
     <div className="container ">
     <div className="   mt-5 " >
       <div className="row  ">
         <div id='para' className="col-md-9  ">
-          <div id="para" className="bg-white  rounded">
+          <div id="para" className="bg-white  rounded p-md-4 p-2">
             <div className="row  ">
               <div className="col-md-4 rounded  "  >
                 <div className='m-0'>
-              <img src={newtolu.Url} alt="image" className='product-image' style={{maxHeight:'600px'}}/> </div> <hr />
+              <img src={newitems.Url} alt="image" className='product-image' style={{maxHeight:'600px'}}/> </div> <hr />
                            <h6 className='m-4 mb-0 mt-1'>SHARE THIS PRODUCT</h6>
                 <h6 className="m-4 mt-0"><strong><RiFacebookCircleLine /> <PiTwitterLogo /></strong></h6> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
                 <p><a href="#" className=' pb-0 '>Report incorrect information</a></p>
               </div>
               <div className="col-md-8 ">
                 <span>
-                  <button id="button" className='border-0 p-1 rounded '>OFFICIAL STORE</button> &nbsp;   <button  className='button h-3 btn-sm rounded border-0 p-1'>{newtolu.header}</button>
+                  <button id="button" className='border-0 p-1 rounded '>OFFICIAL STORE</button> &nbsp;   <button  className='button h-3 btn-sm rounded border-0 p-1'>{newitems.header}</button>
                 </span>
-                <p className='mt-3'>{newtolu.Name}</p>
-                <p>Brand : <a href="">{newtolu.Brand}</a>  | <a href="">Similar products from{newtolu.Brand} </a>   </p>
+                <p className='mt-3'>{newitems.Name}</p>
+                <p>Brand : <a href="">{newitems.Brand}</a>  | <a href="">Similar products from{newitems.Brand} </a>   </p>
                 <hr className="border-top" />
-                <p><span className='fs-4 text'>{newtolu.Price.amount}</span>  <span className='fw-light'><s>{newtolu.Price.slashedamount}</s></span>   <span className='text-danger fw-light'>{newtolu.Price.percent}</span></p>
+                <p><span className='fs-4 text'>{newitems.Price.amount}</span>  <span className='fw-light'><s>{newitems.Price.slashedamount}</s></span>   <span className='text-danger fw-light'>{newitems.Price.percent}</span></p>
                 <p className='fw-light mt-1 mb-0'>In stock</p>
                 <p className='mt-1 mb-0'>+ shipping from <strong>#250</strong> to LEKKI-AJAH</p>
                 <p>Ratings</p>

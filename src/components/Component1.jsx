@@ -1,10 +1,10 @@
 import React, { useState } from 'react';
-import toluData from '../data/tolu';
+import itemsData from '../data/items';
 import '../css/component1.css';
 
 const Component1 = () => {
-    const [tolus, setTolus] = useState(toluData);
-    const newtolu = tolus[4];
+    const [items, setitems] = useState(itemsData);
+    const newitems = items[4];
 
     return (
       <div className=' container rounded'>
@@ -15,44 +15,44 @@ const Component1 = () => {
             
                 <div className="carouselitem bg-white">
                 
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
                   
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     
                 </div>
                 <div className="carouselitem bg-white rounded">
-                    <img src={newtolu.Url} className="carouselimg bg-danger mb-0" alt="Image" />
-                    <p className='text-truncate mt-0 mb-0 padding'>{newtolu.Name}</p>
+                    <img src={newitems.Url} className="carouselimg bg-danger mb-0" alt="Image" />
+                    <p className='text-truncate mt-0 mb-0 padding'>{newitems.Name}</p>
                     <p className=' padding mt-0 mb-0 '>djysdg</p>
                     <p className='padding mt-0 '>djysdg</p>
                     

@@ -1,11 +1,11 @@
 import React,{useState} from 'react';
-import toluData from '../data/tolu'
+import itemsData from '../data/items'
 import '../css/delivery.css'
 import { MdAddShoppingCart } from "react-icons/md";
 
 const Delivery = () => {
-  const [tolus, setTolus] = useState(toluData);
-  const newtolu = tolus[4];
+  const [items, setitemss] = useState(itemsData);
+  const newitems = items[4];
   
 
   return (
@@ -94,7 +94,7 @@ const Delivery = () => {
       <div className='last mt-5 rounded'>
         
 
-            <p onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave} > <a href="#details">Product Details</a></p>
+            <p> <a href="#details">Product Details</a></p>
             <p>Specifications</p>
             <p>Verified Customer Feedback</p>
             </div>
@@ -102,12 +102,12 @@ const Delivery = () => {
           <div className="bg-white rounded mt-2">
           <div className='d-flex  bg-white rounded'>
             <div className=" d-flex">
-            <img src ={newtolu.Url} style={{height:100, width:110}} alt="" />
+            <img src ={newitems.Url} style={{height:100, width:110}} alt="" />
             
             <div className=''>
-            <p className=' text-truncate mb-0' style={{width:150}}>{newtolu.Name} </p>
-            <p  className='mb-0 fs-5'><b>{newtolu.Price.amount}</b></p>
-            <p className='fw-light fs-6'><s>{newtolu.Price.slashedamount} </s> &nbsp; <span className=''> {newtolu.Price.percent}</span> </p>
+            <p className=' text-truncate mb-0' style={{width:150}}>{newitems.Name} </p>
+            <p  className='mb-0 fs-5'><b>{newitems.Price.amount}</b></p>
+            <p className='fw-light fs-6'><s>{newitems.Price.slashedamount} </s> &nbsp; <span className=''> {newitems.Price.percent}</span> </p>
             </div>
             </div>
           </div>
